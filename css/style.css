@@ -1,0 +1,43 @@
+body {
+	background-color: #eb8f8f;
+}
+
+h1 {
+	color: #f1f3de;
+	font-family: 'Satisfy', cursive;
+	font-size: 8rem;
+	text-shadow: 5px 5px #000;
+	margin: auto 0 15px;
+}
+
+p {
+	color: #f1f3de;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 2rem;
+}
+
+footer {
+	margin-top: 5%;
+	text-align: center;
+}
+
+a {
+	color: #e0ece4;
+	text-decoration: none;
+}
+
+img {
+	width: 80%;
+}
+
+.container {
+	text-align: center;
+	width: 70%;
+	margin: auto;
+}
+
+.dice {
+	display: inline-block;
+	margin : 0 7% 3%;
+	text-align: center;
+}
